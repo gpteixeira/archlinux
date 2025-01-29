@@ -1,5 +1,4 @@
 7zip
-amd-ucode
 anydesk-bin
 aria2
 ark
@@ -135,12 +134,10 @@ ufw
 unrar
 vde2
 vim
-virt-manager
 virt-viewer
 visual-studio-code-bin
 wavpack
 wget
-whatsie
 wine
 wine-gecko
 wine-mono
