@@ -13,5 +13,7 @@ ssh-add ~/.ssh/id_ed25519
 echo "This is you pulbic key. Copy the SSH public key to your clipboard and add it on your github account. \n"
 cat ~/.ssh/id_ed25519.pub
 
-echo "to know more, just click in the link ---> https://docs.github.com/en/enterprise-server@3.14/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account"
+echo "To know more, just click in the link ---> https://docs.github.com/en/enterprise-server@3.14/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account"
 
+echo "Link to access your account keys: \n"
+echo "https://github.com/settings/keys"
